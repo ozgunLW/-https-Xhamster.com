@@ -1,0 +1,93 @@
+
+
+    <!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>https://Xhamster.com</title>
+</head>
+<body>
+  <h1>CANIM SIKILIYO DIŞARIMI ÇIKSAK AMA BENDE PARA YOK</h1>
+
+</body>
+</html>
+<img src="homeless-beggar-emoticon-begging-money-1330219121.htm" alt="BANA ISMARLASANA" width="300">
+<style>
+  img {
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgb(255, 8, 0);
+  }
+</style>
+
+<img src="https://placekitten.com/300/200" alt="LÜTFEN ISMARLA YALARIM SENİ" width="300">
+<img src="https://placekitten.com/300/200" alt="SEN ADAMSIN" width="200"> 
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Arka Plan Rengi</title>
+  <style>
+    body {
+      background-color: rgb(52, 0, 119); /* MAVİ*/
+    }
+  </style>
+</head>
+<body>
+  <style>
+  body {
+    font-family: Georgia, serif; /* Yazı tipi */
+    color: #eb0000; /* Yazı rengi */
+  } 
+    h1 {
+    font-size: 50px; /* Başlık boyutu */
+    font-weight: bold; /* Kalın */
+    text-align: center; /* Ortala */
+    color: rgb(0, 119, 255); /* Başlık rengi */
+    <!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Sayfa Açılış Animasyonu</title>
+  <style>
+    /* Yükleniyor ekranı */
+    #loading {
+      position: fixed;
+      width: 100%;
+      height: 100%;
+      background: #222;
+      color: white;
+      font-size: 24px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 9999;
+    }
+
+    /* Asıl sayfa başlangıçta gizli */
+    #content {
+      display: none;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="loading">Yükleniyor...</div>
+
+  <div id="content">
+    <h1>Sayfa yüklendi!</h1>
+    <p>Hoş geldiniz!</p>
+  </div>
+
+  <script>
+    // Sayfa tamamen yüklendiğinde yükleniyor ekranını kaldır
+    window.addEventListener('load', function() {
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('content').style.display = 'block';
+    });
+  </script>
+
+</body>
+</html>
